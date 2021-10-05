@@ -1,0 +1,16 @@
+.nav-background {
+  background-color: lightgreen !important;
+}
+.logo {
+  color: black !important;
+  font-weight: 900;
+  font-size: 15px;
+}
+.logo span {
+  color: rgb(26, 56, 26);
+  font-size: 34px;
+}
+.element {
+  color: rgb(26, 56, 26) !important;
+  font-weight: 500;
+}

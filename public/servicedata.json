@@ -1,0 +1,66 @@
+[
+    {
+        "image": "https://i.ytimg.com/vi/9mWOJLa0mcE/maxresdefault.jpg",
+        "Course": "Advanced Spoken Online Course",
+        "Description": "Advanced Spoken English by our revered author, Madan Sood, is meant not only for improving writing skills but also for oral practice. It is useful for both the advanced and the average learners who have completed at least the basic course in English.",
+        "Time": "8am-9am",
+        "Class": 33,
+        "Fee": 4000
+    },
+    {
+        "image": "https://tse4.mm.bing.net/th?id=OIP.9R6ssBlAT7-wilK_pbblMQHaDH&pid=Api&P=0&w=441&h=186",
+        "Course": "IELTS CRASH BATCH",
+        "Description": "If you want to study abroad and foreign education levels, then you must get high levels of IELTS score and high English proficiency.If you are planning on expanding your study of English or are just looking to be more proficient in it, IELTS courses will certainly help you to reach your goals. ",
+        "Time": "9am-10am",
+        "Class": 25,
+        "Fee": 3000
+    },
+    {
+        "image": "https://tse1.mm.bing.net/th?id=OIP.ksF_qvadadVJcEe3A4ztWgHaEK&pid=Api&P=0&w=319&h=180",
+        "Course": "IELTS Mock TEST",
+        "Description": "There are two types of IELTS test to choose from, IELTS Academic or IELTS General Training. All test takers take the same Listening and Speaking tests but different Reading and Writing tests. Make sure that you prepare for the correct version of the test.",
+        "Time": "10am-10:45am",
+        "Class": 20,
+        "Fee": 800
+    },
+    {
+        "image": "https://i.ytimg.com/vi/9mWOJLa0mcE/maxresdefault.jpg",
+        "Course": "SPOKEN ONLINE",
+        "Description": "Take this Spoken English course with the worlds English experts and you will get a highly qualified and experienced teacher who will design the course depending on your specific needs do a variety of authentic communicative tasks in pairs and groups",
+        "Time": "11am-12:30am",
+        "Class": 40,
+        "Fee": 4500
+    },
+    {
+        "image": "https://image.slideserve.com/722761/english-writing-courses-l.jpg",
+        "Course": "Writting",
+        "Description": "An English writing style is a combination of features in an English language composition that has become characteristic of a particular writer, a genre, a particular organization, or a profession more broadly.",
+        "Time": "10am-10:30am",
+        "Class": 25,
+        "Fee": 950
+    },
+    {
+        "image": "https://tse4.mm.bing.net/th?id=OIP.hCj7k45YcNW2HIMeTTiCIAHaEc&pid=Api&P=0&w=252&h=152",
+        "Course": "Grammer",
+        "Description": "Grammarly now organizes your writing feedback by theme, so you can see how each change will help your readers better understand your message.",
+        "Time": "3am-4am",
+        "Class": 25,
+        "Fee": 4000
+    },
+    {
+        "image": "https://tse1.mm.bing.net/th?id=OIP.eHLiVowQpvhaqY-KWfAhoQHaGJ&pid=Api&P=0&w=187&h=156",
+        "Course": "SSC 2021 Model Test(online)",
+        "Description": "It’s a matter of consciousness that within a very short time we have managed ssc question paper 2021 and ssc suggestion 2021. It won’t take too long to start SSC exam in our country with ssc new syllabus 2021. Many students of every corner of our country are preparing themselves for the exam.",
+        "Time": "11am-12:30am",
+        "Class": 30,
+        "Fee": 4500
+    },
+    {
+        "image": "https://tse3.mm.bing.net/th?id=OIP.kmPKpe3gJJ3dL0AeaJV74AAAAA&pid=Api&P=0&w=190&h=163",
+        "Course": "HSC 2021 Model Test(online)",
+        "Description": "Finally we have published hsc suggestion 2021 with question papers that would be 100% common for all boards and subjects. HSC or Higher Secondary Certificate Exam 2021 is knocking at the door. If you are in need of HSC suggestion and question paper, follow this site because we are going to provide questions and suggestions for all subjects.",
+        "Time": "2am-3:30am",
+        "Class": 35,
+        "Fee": 5500
+    }
+]

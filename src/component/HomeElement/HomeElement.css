@@ -1,0 +1,38 @@
+.home-img {
+  width: 80%;
+  height: 300px;
+  border: 1px solid rgb(110, 238, 85);
+  box-shadow: 5px 10px gray;
+  border-radius: 15px;
+  margin: auto;
+}
+.sigle-service {
+  margin-top: 80px;
+}
+.service-cart {
+  margin: auto;
+  width: 85%;
+  border: 2px solid rgb(109, 56, 56);
+  border-radius: 15px;
+  padding-top: 45px;
+  background-color: rgb(150, 242, 150);
+}
+.cls-num {
+  color: rgb(26, 26, 70);
+  font-size: larger;
+  margin-top: 10px;
+}
+.Course-name {
+  color: rgb(107, 32, 91);
+  font-size: 30px;
+  font-weight: 700;
+}
+.time {
+  color: black;
+  font-size: 17px;
+}
+.bold {
+  color: orangered;
+  font-weight: 600;
+  font-size: 20px;
+}

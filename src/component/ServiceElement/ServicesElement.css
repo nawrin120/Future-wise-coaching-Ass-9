@@ -1,0 +1,28 @@
+.fullCard {
+  background-color: rgb(241, 253, 245);
+  box-shadow: 2px 2px 6px rgb(92, 91, 91);
+  border: 2px solid rgb(180, 247, 80);
+}
+
+.tittle {
+  color: rgb(121, 14, 98);
+  font-weight: 600;
+  font-size: x-large;
+}
+.description {
+  color: rgb(158, 90, 1);
+  font-size: large;
+  font-weight: 600;
+}
+.class {
+  color: rgb(94, 10, 10);
+  font-size: 30px;
+  text-shadow: 2px 2px 4px gray;
+}
+.image {
+  width: 300px;
+  height: 300px;
+  margin-left: 30px;
+  margin-top: 20px;
+  border: 3px solid rgb(167, 247, 102);
+}

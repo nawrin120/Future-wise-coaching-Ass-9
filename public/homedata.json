@@ -1,0 +1,30 @@
+[
+    {
+        "image": "https://tse4.mm.bing.net/th?id=OIP.9R6ssBlAT7-wilK_pbblMQHaDH&pid=Api&P=0&w=441&h=186",
+        "Course": "IELTS CRASH BATCH",
+        "Time": "10am-12am",
+        "Class": 66,
+        "Fee": 12500
+    },
+    {
+        "image": "https://image.slideserve.com/722761/english-writing-courses-l.jpg",
+        "Course": "Writting & Grammer",
+        "Time": "8am-10am",
+        "Class": 24,
+        "Fee": 3500
+    },
+    {
+        "image": "https://i.ytimg.com/vi/9mWOJLa0mcE/maxresdefault.jpg",
+        "Course": "Advanced Spoken",
+        "Time": "12am-2am",
+        "Class": 20,
+        "Fee": 3000
+    },
+    {
+        "image": "https://tse1.mm.bing.net/th?id=OIP.ksF_qvadadVJcEe3A4ztWgHaEK&pid=Api&P=0&w=319&h=180",
+        "Course": "Mock Test Package",
+        "Time": "2am-5am",
+        "Class": 25,
+        "Fee": 4000
+    }
+]

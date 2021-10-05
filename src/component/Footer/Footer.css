@@ -1,0 +1,42 @@
+.footer {
+  background-color: rgb(26, 56, 26);
+  color: aliceblue;
+  font-weight: 600;
+  padding: 30px;
+  margin-top: 30px;
+}
+.nameFooter {
+  background-color: rgba(20, 116, 44, 0.357);
+  color: antiquewhite;
+  text-shadow: 2px 2px 4px gray;
+  font-weight: 700;
+  font-size: 30px;
+  width: 130px;
+  border-radius: 50px;
+  height: 100px;
+  margin-bottom: 20px;
+  padding-top: 13px;
+}
+.calling {
+  margin-right: 1100px;
+}
+#icon {
+  font-size: larger;
+  margin-right: 10px;
+}
+.info {
+  margin-right: 1050px;
+}
+.social {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.social a {
+  border: 3px solid rgb(242, 216, 169);
+  border-radius: 50%;
+  color: aliceblue;
+  margin-right: 30px;
+  font-size: 22px;
+  margin-bottom: 25px;
+  padding: 6px 10px;
+}
