@@ -1,6 +1,6 @@
 # Future Wise & IELTS Coaching Center
 
-LIVE LINK : []()
+LIVE LINK : [https://distracted-thompson-026c7e.netlify.app/home](https://distracted-thompson-026c7e.netlify.app/home)
 
 # In This Coaching Center
 
